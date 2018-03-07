@@ -1,0 +1,367 @@
+body{
+    background: url(../images/kidsssss.png); 
+
+
+}
+.navbar_section{
+    background-color: #ffd338;
+    min-height: 100px;
+    
+}
+.custom_nav ul li a{
+    color:white !important;
+    font-family: 'Dosis' sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 0px 20px !important;
+    transition: 1s;
+    border-radius: 20px;
+}
+
+.custom_nav ul li a:hover{
+    background-color: #f05c5c;
+    
+}
+.btn_custom{
+    background: transparent;
+}
+.custom_icon a{
+    background: transparent !important;
+    border: none;
+}
+
+.banner{
+    background-image: url(../images/slider.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    min-height: 600px;
+}
+.banner_text{
+    color:#1ec0ff;
+    font-family: 'Dosis' sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    margin-top: 300px;
+}
+.scroll{
+    margin-top: 500px;
+    color:#bbbbbb;
+    font-family: 'Lato' sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.kid_eduction{
+    min-height: 500px;
+}
+.kid_title h1, .kid2_title{
+    color:#333333;
+    font-family:Dosis;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+.kid_title hr, .kid2_title hr{
+    border: 3px dashed white;
+    width:250px;
+    
+}
+.kid_content, .kid_img{
+    margin-top: 50px;
+}
+
+.kid_content h1{
+    color:#333333;
+    font-family: Dosis;
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+.kid_content hr{
+    border: 3px solid #dddddd;
+    width: 150px;
+    margin-left: 0px;
+}
+.kid_content p{
+    color:#474747;
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 14px;
+    
+}
+
+.kid_education2{
+    background-image: url(../images/lOOOOL.png);
+    min-height: 513px;
+    
+}
+
+.custom_cardbody{
+    background: transparent !important;
+    border: none !important;
+}
+.custom_cardbody p{
+    color:white;
+    font-family: Dosis;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 15px;
+    letter-spacing: 3px;
+}
+.card_img{
+    border-radius: 50%;
+    height: 140px;
+    width: 136px;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.offered_courses{
+    min-height:900px;
+    overflow: hidden
+}
+
+.course_title{
+    color:#333333;
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+    
+}
+
+.card2{
+    overflow: hidden;
+    padding: 0;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    
+}
+.card-header{
+    background-color: #1ec0ff;
+    height: 44px;
+    color:white !important;
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 12px;
+    
+}
+.card-title{
+    color:#333333;
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 1s;
+    
+}
+.card-title:hover{
+    color:#1ec0ff;
+}
+.card-text{
+    color:#333333;
+    font-family: 'Dosis';
+    font-weight: 100;
+    font-size: 14px;
+    
+}
+.card-footer{
+    color:#333333;
+    font-family: 'Dosis';
+    font-weight: 300;
+    font-size: 16px;
+    
+}
+.pricing{
+    position: absolute;
+    bottom: 150px;
+    right: 29px;
+    
+}
+.plus_button{
+    margin-top: 60px;
+    background-color: #56d47e !important;
+    border: none;
+    margin-bottom: 15px;
+}
+.memmorable_moments{
+    background-image: url(../images/mom-bg.jpg);
+    height: 800px;
+    overflow: hidden;
+}
+.mem_title{
+    margin-top: 60px;
+    color:#333333;
+    font-family: 'Dosis' sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.mem_title hr{
+    border: 0;
+    border: 3px dashed white;
+    width: 300px;
+    
+    
+}
+.pic_part1{
+    margin: 10px 0px;
+}
+.pic_part1 img,.recent_imgn img, .insta_img img{
+    border-radius: 10px;
+}
+.view_more{
+    margin-top: 70px;
+}
+.ticon p{
+    font-family: 'Lato' sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color:#333333; 
+}
+.portfolio_title h1{
+    color:#333333;
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+.what_we_did{
+    min-height: 300px;
+    background-image: url(../images/1920.jpeg);
+    background-position: center;
+}
+footer{
+    min-height: 50px;
+    background-color: #ffd338;
+
+}
+.copyright{
+    color: white;
+    font-family: 'Lato' sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    margin-top: 25px;
+}
+.footer_nav a{
+    color:white !important;
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 25px 20px !important;
+}
+.what_title, .offer_des h1{
+    color: #56d47e;
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 38px;
+}
+.what_title hr{
+    border:0 ;
+    border: 3px dashed white;
+    width: 215px;
+}
+.measurement{
+    color: white;
+    margin-top: 20px;
+}
+.measurement p{
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.timeline, .news{
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    
+}
+.timeline hr, .news hr, .portfolio_title hr, .course_title hr{
+    border: 3px dashed white;
+    width: 250px;
+    
+}
+.timeline_imgn,.timeline_description{
+    margin-top: 30px;
+}
+.recent_description h4, .timeline_description h4, .portfolio_title h1, .card-title {
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.timeline_description p, .timeline_description span,.recent_description p,.recent_description span, .giraffe_info p, .giraffe_info span, .contaact, .newsletter, .ticon p, .offer_des p, .card-text{
+    font-family: Lato;
+    font-weight: 300;
+    font-size: 14px;
+}
+.recent_news{
+    min-height: 710px;
+}
+.recent_description hr{
+    border: 2px dotted green;
+    width: 250px;
+}
+.recent_imgn, .recent_description{
+    margin-top: 15px;
+}
+.contact{
+    background-image: url(../images/contactsss-bg.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    min-height: 500px;
+    position: relative;
+}
+.giraffe_info, .insta, .contaact, .newsletter{
+    margin-top: 200px;
+}
+
+.insta h1, .contaact h1,.newsletter h1{
+    font-family: 'Dosis';
+    font-weight: bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #ffc852;
+    letter-spacing: 2px;
+}
+.insta_img img{
+    padding: 7px 1px;
+}
+.contaact{
+    line-height: 40px;
+}
+.social_icon{
+    letter-spacing: 15px;
+}
+.ticon, .portfolio_title{
+    margin-top: 50px;
+}
+.offer_img img{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.portfolio{
+    min-height: 965px;
+}
+.custom_card{
+    border-radius: 15px !important;
+}
+
+
+
+
+

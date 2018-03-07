@@ -1,0 +1,2 @@
+font-family: 'Dosis', sans-serif;
+font-family: 'Lato', sans-serif;
